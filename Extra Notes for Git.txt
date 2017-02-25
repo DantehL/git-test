@@ -12,5 +12,3 @@ Use Git commands to help keep track of changes made to a project:
 *git commit permanently stores file changes from the staging area in the repository
 
 *git log shows a list of all previous commits
-
-Hello World!
